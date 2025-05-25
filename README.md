@@ -1,51 +1,48 @@
 ![logo](https://github.com/user-attachments/assets/351f672f-2dcc-4ff7-ae35-5d1eca22515b)
 
+# Task Manager (ToDo App)
 
-# Gerenciador de Tarefas (ToDo App)
+## Project Description
 
+The Task Manager, or ToDo App, is an application designed to create and manage your task list. This project was developed in Python using the Flet library, offering an intuitive and efficient experience to organize your daily tasks. It includes the use of an SQLite3 database to keep your data saved between sessions.
 
+## Table of Contents
 
-## Descrição do Projeto
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contact](#contact)
 
-O Gerenciador de Tarefas, ou ToDo App, é uma aplicação para criar e gerenciar sua lista de tarefas. Este projeto foi desenvolvido em Python com a biblioteca Flet, proporcionando uma experiência intuitiva e eficiente para organizar suas tarefas diárias. Inclui uso de banco de dados do SQLite3 para manter os dados salvos entre sessões.
+## Installation
 
-## Índice
+To run the Task Manager, follow the steps below:
 
-- [Instalação](#instalação)
-- [Uso](#uso)
-- [Contato](#contato)
-
-## Instalação
-
-Para executar o Gerenciador de Tarefas, siga os passos abaixo:
-
-1. Ative o ambiente virtual (recomendado):
+1. Activate the virtual environment (recommended):
 
    ```bash
    source venv/bin/activate
    ```
 
-2. Instale as dependências do projeto:
+2. Install the project dependencies:
 
    ```bash
    pip install -r requirements.txt
    ```
 
-3. Execute o arquivo principal `todo.py`:
+3. Run the main file `todo.py`:
 
    ```bash
    python todo.py
    ```
 
-## Uso
+## Usage
 
-O Gerenciador de Tarefas oferece uma interface gráfica moderna e simples para adicionar, listar, marcar como concluídas e excluir tarefas. Você pode criar e organizar sua lista de tarefas de forma rápida e eficiente.
+The Task Manager offers a modern and simple graphical interface to add, list, mark as completed, and delete tasks. You can quickly and efficiently create and organize your task list.
 
-### Contato
+## Contact
 
-Para mais informações ou dúvidas sobre o projeto, entre em contato pelo e-mail: [caiovenanciocommercial@gmail.com](mailto:caiovenanciocommercial@gmail.com)
+For more information or questions about the project, feel free to reach out via email: [caiovenanciocommercial@gmail.com](mailto:caiovenanciocommercial@gmail.com)
 
-## Licença
+## License
 
-Este projeto está licenciado sob a Licença Pública Geral GNU (GPL) - consulte o arquivo [LICENSE](LICENSE) para obter detal
- 
+This project is licensed under the GNU General Public License (GPL) – see the [LICENSE](LICENSE) file for details.
+
